@@ -45,5 +45,6 @@ const pascal_function = (n) => {
     print(pascalRow[i]);
   }
 }
-
-pascal_function(7);
+//===============Run The pascal_function ==================
+//you can change the parameter to any value bro :D
+pascal_function(4);
